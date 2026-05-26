@@ -6,7 +6,8 @@
 # I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of my Google Chrome extension(s).
 # Information Collection
 
-# My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or location. Since no data is collected, none of your data is sold to third parties.
+# My Google Chrome Extensions do not collect any personal information from users. I do not gather, store, or transmit any data that can be used to personally identify you, such as your name, email address, or location. Since no data is collected, none of your data is sold to third parties. Any authorization for third party websites are processed through those third party websites with no data being stored by this extension. API keys used in AI generated content are stored locally on each users machine.
+
 # Links to Other Websites
 
 # My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.
