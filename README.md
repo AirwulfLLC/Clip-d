@@ -1,7 +1,7 @@
 # Clip'd
 # Chrome Extensions Privacy Policy
 
-# Effective Date: May 7, 2025
+# Effective Date: May 7, 2026
 
 # I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of my Google Chrome extension(s).
 # Information Collection
